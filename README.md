@@ -1,4 +1,4 @@
-# HULTI-GEN
+# HULTI-GEN (Huddersfield Universal Listening Test Interface Generator)
 
 Copyright (c) 2016 Christopher Gribben and Hyunkook Lee
 christopher.gribben@hud.ac.uk, h.lee@hud.ac.uk
