@@ -1,5 +1,6 @@
 # HULTI-GEN (Huddersfield Universal Listening Test Interface Generator)
 
+by Applied Psychoacoustics Lab, University of Huddersfield, UK.
 Copyright (c) 2016 Christopher Gribben and Hyunkook Lee
 christopher.gribben@hud.ac.uk, h.lee@hud.ac.uk
 
