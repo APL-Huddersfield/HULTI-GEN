@@ -18,3 +18,7 @@ http://eprints.hud.ac.uk/id/eprint/24809/
 
 This project was supported by EPSRC (EP/L019906/1).
 
+# Feedback and Bug Report
+
+All feedbacks are welcome. To report any bugs or ask any query about the rendering tool, please contact Hyunkook Lee (h.lee@hud.ac.uk) and Christopher Gribben (christopher.gribben@hud.ac.uk).
+If you would like to be updated with Hulti-Gen or other research news by the Applied Psychoacoustics Lab, please sign up here: https://goo.gl/forms/CkqgkdePwOTR8XCI2
